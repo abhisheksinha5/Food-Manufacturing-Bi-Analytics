@@ -131,22 +131,22 @@ The framework moves from:
 ## Executive Overview
 Management-level view of revenue, profit, targets, orders, and production efficiency.
 
-![Executive Overview](Screenshots/01_Executive_Overview.png)
+![Executive Overview](Screenshots/01_Executive_Overview.jpg)
 
 ## Operations & Customer Insights
 Production, quality, inventory, supplier, and customer performance analysis.
 
-![Operations & Customer Insights](Screenshots/02_Operations_Customer_Insights.png)
+![Operations & Customer Insights](Screenshots/02_Operations_Customer_Insights.jpg)
 
 ## Growth & Sales Insights
 Sales channels, customers, exports, salespeople, and product growth analysis.
 
-![Growth & Sales Insights](Screenshots/03_Growth_Sales_Insights.png)
+![Growth & Sales Insights](Screenshots/03_Growth_Sales_Insights.jpg)
 
 ## Workforce Efficiency & Manpower Planning
 Workforce productivity and data-driven manpower planning.
 
-![Workforce & Manpower Planning](Screenshots/04_Workforce_Manpower_Planning.png)
+![Workforce & Manpower Planning](Screenshots/04_Workforce_Manpower_Planning.jpg)
 
 # 💡 Business Insight Areas
 
